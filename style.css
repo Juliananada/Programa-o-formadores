@@ -1,2 +1,14 @@
 header{background-color: #E61EEA;
+    display: inline-flex;
+}
+
+.imagem=logo {
+    width: 20px;
+    height: 20px;
+    margin: 40px;
+    padding: 40px;
+}
+
+body {
+    font-family: sans-serif;
 }
